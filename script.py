@@ -1,5 +1,5 @@
 import requests
-x=requests.get('https://msj.aztu.edu.az')
+x=requests.get('https://hucum_edilecek_seyfe')
 
 print(x.status_code)
 
